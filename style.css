@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.flexible-div{
+    display: flex;
+}
+.half-top{
+    width: 60%;
+    margin-left: 10%;
+    margin-top: 12%;
+}
+.half-image{
+    width: 40%;
+    margin-top: 4%;
+}
+.half-image img{
+    width: 72%;
+    
+}
+.half-top img{
+    width: 60%;
+
+}
+.half-top h1{
+    font-size: 50px;
+    border-left: 4px solid rgb(255, 89, 89);
+    padding-left: 2%;
+    border-radius: 5px;
+}
+.color{
+    color: rgb(249, 192, 97);
+}
+.button{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    background-color: rgb(255, 89, 89);
+    padding: 10px 10px;
+    width: 25%;
+    color:white;
+    border-radius: 4px;
+    margin: 20px 0;
+}
+.second-section{
+    margin-top: 8%;
+
+}
+.second-section h1{
+    font-size: 45px;
+    font-weight:700;
+    text-align: center;
+}
+.flexible-mission{
+    display: flex;
+    margin: 4% 10%;
+
+}
+.my-mission{
+    width: 30%;
+    margin:0 2%;
+    padding-left: 1.5%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    padding-top: 2%;
+
+}
+.my-mission p{
+    text-align: justify;
+    color: rgb(75, 75, 75);
+
+}
+p{
+    color: rgb(75, 75, 75);
+   
+
+}
+h3{
+    font-size: 25px;
+}
+.my-mission img{
+    width: 40%;
+}
+#mission{
+    background-color: rgba(175, 201, 250, 0.603);
+    border-radius: 9%;
+}
+#vission{
+    background-color: rgba(182, 193, 197, 0.603);
+    border-radius: 9%;
+}
+
+#goals{
+    background-color: rgba(224, 218, 142, 0.603);
+    border-radius: 9%;
+}
+.develop{
+    width: 60%;
+    margin-left: 40px;
+}
+.develop-image img{
+    width: 70%;
+    margin-left: 28%;
+
+}
+.develop h1{
+    font-size: 35px;
+    font-weight: 900;
+    color: rgb(37, 37, 37);
+}
+.develop p{
+    margin-right: 10%;
+}
+.develop-image{
+    width: 40%;
+}
+.link-button{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    background-color: rgb(255, 89, 89);
+    padding: 10px 10px;
+    width: 25%;
+    color:white;
+    border-radius: 4px;
+    margin: 20px 0;
+}
+.third-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: left center;
+    margin-bottom: 5%;
+    margin-top: 7%;
+    margin-left: 5px ;
+    
+}
+.global-community{
+    width: 60%;
+    margin-left: 11%;
+    margin-top: 3%;
+}
+.global-community-image{
+    width: 40%;
+   
+}
+.global-community-image img{
+    width: 75%;
+    margin-left: 7%;
+}
+.global-community h1{
+    font-size: 35px;
+    color: rgb(37, 37, 37);
+
+}
+.fourth-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: right bottom;
+    margin-top: 7%;
+    margin-bottom: 5%;
+    margin-right: 1%;
+    padding-bottom: 5%;
+}
+footer{
+    padding: 3% 0;
+    background: black;
+    width: 100%;
+    
+}
+footer h1{
+    color:white;
+    text-align: center;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 38px;
+}
+footer p{
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
+.color-rgb{
+    color: rgb(255, 89, 89);
+}
+
+
